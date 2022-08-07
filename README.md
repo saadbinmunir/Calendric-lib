@@ -1,10 +1,10 @@
 # Calendric-lib
 
-[![PyPI](https://img.shields.io/pypi/v/gluonts.svg?style=flat-square)](https://pypi.org/project/calendric-lib/)
-[![GitHub](https://img.shields.io/github/license/awslabs/gluon-ts.svg?style=flat-square)](./LICENSE)
-[![Static](https://img.shields.io/static/v1?label=docs&message=stable&color=blue&style=flat-square)](https://ts.gluon.ai/)
-[![Static](https://img.shields.io/static/v1?label=docs&message=dev&color=blue&style=flat-square)](https://ts.gluon.ai/dev/)
-[![PyPI Downloads](https://pepy.tech/badge/gluonts)](https://pypi.org/project/calendric-lib/)
+[![GitHub issues](https://img.shields.io/github/issues/saadbinmunir/Calendric-lib)](https://github.com/saadbinmunir/Calendric-lib/issues)
+[![GitHub forks](https://img.shields.io/github/forks/saadbinmunir/Calendric-lib)](https://github.com/saadbinmunir/Calendric-lib/network)
+[![GitHub stars](https://img.shields.io/github/stars/saadbinmunir/Calendric-lib)](https://github.com/saadbinmunir/Calendric-lib/stargazers)
+[![GitHub license](https://img.shields.io/github/license/saadbinmunir/Calendric-lib)](https://github.com/saadbinmunir/Calendric-lib/blob/main/LICENSE)
 
 #  About
 Calendric-lib is a creative package for calendrical conversion operations in Python.
+
