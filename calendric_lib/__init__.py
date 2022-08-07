@@ -1,3 +1,5 @@
+__version__ = '0.0.1'
+
 # Code to convert Month to int
 def MonthToNum(Month):
     return{
@@ -34,7 +36,7 @@ def NumToAbbrMonth(Month):
 
 
 # Code to convert int to Full Month
-def NumToAbbrMonth (Month):
+def NumToMonth (Month):
     return{
         1:'January',
         2:'February',
