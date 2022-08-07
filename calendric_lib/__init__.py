@@ -1,21 +1,40 @@
-__version__ = '0.0.1'
+__version__ = '0.0.2'
 
-# Code to convert Month to int
-def MonthToNum(Month):
+# Code to convert Abbreviated Month to int
+def AbbrMonthToNum(Month):
     return{
-        'Jan': 1,
+        'Jan':1,
         'Feb':2,
         'Mar':3,
-        'Apr' :4,
-        'May' :5,
+        'Apr':4,
+        'May':5,
         'Jun':6,
         'Jul':7,
-        'Aug': 8,
+        'Aug':8,
         'Sep':9,
         'Oct':10,
         'Nov':11,
         'Dec':12,
     } [Month]
+
+
+# Code to convert Month to int
+def MonthToNum(Month):
+    return{
+        'January':1,
+        'February':2,
+        'March':3,
+        'April':4,
+        'May':5,
+        'June':6,
+        'July':7,
+        'August':8,
+        'September':9,
+        'October':10,
+        'November':11,
+        'December':12,
+    } [Month]
+
 
 # Code to convert int to Abbreviated Month
 def NumToAbbrMonth(Month):
@@ -35,7 +54,7 @@ def NumToAbbrMonth(Month):
     } [Month]
 
 
-# Code to convert int to Full Month
+# Code to convert int to Full Month 
 def NumToMonth (Month):
     return{
         1:'January',
