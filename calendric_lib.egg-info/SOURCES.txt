@@ -1,7 +1,7 @@
 LICENSE
 README.md
-calendric_lib.py
 setup.py
+calendric_lib/__init__.py
 calendric_lib.egg-info/PKG-INFO
 calendric_lib.egg-info/SOURCES.txt
 calendric_lib.egg-info/dependency_links.txt
