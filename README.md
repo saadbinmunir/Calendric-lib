@@ -28,9 +28,6 @@ pip install --upgrade calendric-lib
 
 ## Examples
 
-# Import library
-import calendric_lib as cl
-
 ```python
 import calendric-lib as cl
 
