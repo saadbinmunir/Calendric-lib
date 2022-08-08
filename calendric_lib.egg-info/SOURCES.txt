@@ -1,5 +1,6 @@
 LICENSE
 README.md
+setup.cfg
 setup.py
 calendric_lib/__init__.py
 calendric_lib.egg-info/PKG-INFO

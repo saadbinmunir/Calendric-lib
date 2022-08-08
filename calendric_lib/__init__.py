@@ -1,4 +1,4 @@
-__version__ = '0.0.4'
+__version__ = '0.0.5'
 
 # Code to convert Abbreviated Month to int
 def AbbrMonthToNum(Month):
