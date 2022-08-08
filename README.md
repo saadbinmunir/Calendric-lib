@@ -10,7 +10,7 @@ Calendric-lib is a creative package for calendrical conversion operations in Pyt
 
 ## Requirements
 
-simplemathutils-lib requires python 3.6 or greater.
+Calendric-lib requires python 3.6 or greater.
 
 ## Installation
 
